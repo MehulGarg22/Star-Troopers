@@ -1,0 +1,11 @@
+    @font-face {
+    font-family: 'Spinebiting Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Spinebiting Regular'), url('Spinebiting.woff') format('woff');
+    }
+    span{
+        font-family: 'Spinebiting Regular';
+        font-size:80px;
+        padding-bottom: 20px;
+    }
