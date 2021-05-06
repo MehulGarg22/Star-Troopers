@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Star-Troopers/static/css/main.ac33e682.chunk.css",
-    "main.js": "/Star-Troopers/static/js/main.9dae7242.chunk.js",
-    "main.js.map": "/Star-Troopers/static/js/main.9dae7242.chunk.js.map",
+    "main.js": "/Star-Troopers/static/js/main.7988e27e.chunk.js",
+    "main.js.map": "/Star-Troopers/static/js/main.7988e27e.chunk.js.map",
     "runtime-main.js": "/Star-Troopers/static/js/runtime-main.8abda43c.js",
     "runtime-main.js.map": "/Star-Troopers/static/js/runtime-main.8abda43c.js.map",
     "static/css/2.fe359a49.chunk.css": "/Star-Troopers/static/css/2.fe359a49.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.8eb7bed4.chunk.js",
     "static/css/main.ac33e682.chunk.css",
-    "static/js/main.9dae7242.chunk.js"
+    "static/js/main.7988e27e.chunk.js"
   ]
 }
