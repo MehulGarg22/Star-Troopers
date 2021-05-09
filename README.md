@@ -38,3 +38,4 @@ yarn install or npm install
 ```
 yarn start or npm start
 ```
+<img align="left" alt="Application Image" width="100%" src="Star-Troopers Preview.png" />
