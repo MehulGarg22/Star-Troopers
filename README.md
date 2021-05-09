@@ -33,22 +33,8 @@ git checkout -b branch-name
 
 ```markdown
 
-### How to run the project in your local machine
+## How to run the project in your local machine
 
-```
-git clone git@github.com:MehulGarg22/Star-Troopers.git
-```
-
-```
-yarn install
-``` or 
-```
-npm install
-```
-
-```
-yarn start
-``` or 
-```
-npm start
-```
+```git clone git@github.com:MehulGarg22/Star-Troopers.git```
+```yarn install``` or ```npm install```
+```yarn start``` or ```npm start```
