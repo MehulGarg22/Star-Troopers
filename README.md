@@ -35,8 +35,20 @@ git checkout -b branch-name
 
 ### How to run the project in your local machine
 
-- ```git clone git@github.com:MehulGarg22/Star-Troopers.git```
+```
+git clone git@github.com:MehulGarg22/Star-Troopers.git
+```
 
-- ```yarn install``` or ```npm install```
+```
+yarn install
+``` or 
+```
+npm install
+```
 
-- ```yarn start``` or ```npm start```
+```
+yarn start
+``` or 
+```
+npm start
+```
