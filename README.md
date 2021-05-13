@@ -15,7 +15,7 @@ Mehul_Garg.
 * Clone your fork down to your local machine
 
 ```
-git clone https://github.com/your-username/repository_name.git
+git clone git@github.com:MehulGarg22/Star-Troopers.git
 ```
 
 * Create a branch
