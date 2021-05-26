@@ -1,3 +1,6 @@
+
+<img align="right" alt="Application Image" width="55%" height="100%" src="Star-Troopers Preview.png" />
+
 # Star-Troopers
 
 Link to the webpage: [**Star-Troopers**](https://mehulgarg22.github.io/Star-Troopers/).
@@ -9,14 +12,6 @@ CSS is used to Style.
 
 ## Maintainer.
 Mehul_Garg.
-
-# Star_Trooper Preview
-
-<img align="left" alt="Application Image" width="100%" src="Star-Troopers Preview.png" />
-
-<br>
-<br>
-<br>
 
 
 # Guideline to Get Started
