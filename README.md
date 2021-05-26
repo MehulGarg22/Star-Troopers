@@ -11,7 +11,7 @@ Programming Language used here is Javascript, Reactjs, HTML.
 CSS is used to Style.
 
 ## Maintainer.
-Mehul_Garg.
+<a href="https://www.mehulgarg.me/"> Mehul Garg.</a>
 
 
 # Guideline to Get Started
