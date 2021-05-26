@@ -10,7 +10,16 @@ CSS is used to Style.
 ## Maintainer.
 Mehul_Garg.
 
-## Guideline to Get Started
+# Star_Trooper Preview
+
+<img align="left" alt="Application Image" width="100%" src="Star-Troopers Preview.png" />
+
+<br>
+<br>
+<br>
+
+
+# Guideline to Get Started
 1. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the Button "Fork".
 
    ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
@@ -69,7 +78,6 @@ yarn start or npm start
 ```
 __Happy Learning__ ✨
 
-<img align="left" alt="Application Image" width="100%" src="Star-Troopers Preview.png" />
 
 
 
