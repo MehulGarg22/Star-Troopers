@@ -7,7 +7,7 @@ Link to the webpage: [**Star-Troopers**](https://mehulgarg22.github.io/Star-Troo
 
 ## Programming Language
 
-Programming Language used here is Javascript, Reactjs, HTML
+Programming Language used here is Javascript, Reactjs, HTML.
 CSS is used to Style.
 
 ## Maintainer.
